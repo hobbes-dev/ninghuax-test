@@ -35,5 +35,6 @@ int main() {
     cout << "Sum(3, 7) = " << sum(3, 7) << endl;
     cout << "isPrime(17) = " << isPrime(17) << endl;
     cout << "Power(2, 8) = " << power(2, 8) << endl;
+    cout << "testing!!!" << endl;
     return 0;
 }
